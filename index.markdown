@@ -33,7 +33,7 @@ Dr. Michael Lu, MD, MPH, Director of Research, Cardiovascular Imaging at Massach
 Dr. Joe Futoma, postdoctoral fellow with Dr. Finale Doshi-Velez at Harvard
 
 **Learning microbial dynamics for therapeutic applications: Scalable inference and robustness**  
-*Tue 11/19, 12:30pm  E25-401*  
+*Tue 11/19, 12:30pm  E25-101*  
 Dr. Travis Gibson, Brigham and Women's Hopsital & Harvard Medical School
 
 Mon 12/2, 1pm  
