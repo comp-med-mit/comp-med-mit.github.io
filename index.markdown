@@ -28,7 +28,7 @@ Discussion led by Aniruddh Raghu, PhD Student with Drs. John Guttag and Collin S
 *Mon 10/21, 1pm E25-401*  
 Dr. Michael Lu, MD, MPH, Director of Research, Cardiovascular Imaging at Massachusetts General Hospital and Assistant Professor of Radiology at Harvard Medical School
 
-**Title TBA**  
+**Assisting with Sequential Clinical Decision Making Using Machine Learning**  
 *Mon 11/4, 1pm E25-401*   
 Dr. Joe Futoma, postdoctoral fellow with Dr. Finale Doshi-Velez at Harvard
 
