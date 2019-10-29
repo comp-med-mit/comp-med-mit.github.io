@@ -34,7 +34,7 @@ Dr. Joe Futoma, postdoctoral fellow with Dr. Finale Doshi-Velez at Harvard
 
 **Learning microbial dynamics for therapeutic applications: Scalable inference and robustness**  
 *Tue 11/19, 12:30pm  E25-101*  
-Dr. Travis Gibson, Brigham and Women's Hopsital & Harvard Medical School
+Dr. Travis Gibson, Brigham and Women's Hospital, Harvard Medical School
 
 Mon 12/2, 1pm  
 Mon 12/16, 1pm  
