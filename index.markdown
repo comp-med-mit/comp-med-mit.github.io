@@ -9,7 +9,7 @@ Interested in the application of computational tools
 like machine learning to medicine and healthcare?  
 Join our reading group!
 
-Join our [mailing list](https://groups.mit.edu/webmoira/list/comp_med)
+Join our [mailing list](https://groups.mit.edu/webmoira/list/comp_med), and subscribe to our [google calendar](https://calendar.google.com/calendar/b/1?cid=dHU5YjJlMWFmdTloOXEyaWIxMjd2bGNhdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 Interested in sharing your research or a recent article?  
 Contact [kayoung AT mit DOT edu]() or fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe1p6Jghn5IiZK2MNkZKEYwrQlQA5YM4smnpIAgy3RRDZM9TA/viewform)
@@ -22,19 +22,19 @@ Contact [kayoung AT mit DOT edu]() or fill out [this form](https://docs.google.c
 **Optimal Treatment Strategies for Sepsis in ICU via Reinforcement Learning**  
 *Mon 9/23, 1pm E25-401*   
 Journal Club of Komorowski et al., Nature Medicine 2018 (DOI: 10.1038/s41591-018-0213-5)  
-Discussion led by Aniruddh Raghu, PhD Student with Drs. John Guttag and Collin Stultz  
+Discussion led by [Aniruddh Raghu](http://aniruddhraghu.com/), doctoral Student with Drs. John Guttag and Collin Stultz  
 
 **Deep Learning to Assess Long-Term Mortality from Chest Radiographs**  
 *Mon 10/21, 1pm E25-401*  
-Dr. Michael Lu, MD, MPH, Director of Research, Cardiovascular Imaging at Massachusetts General Hospital and Assistant Professor of Radiology at Harvard Medical School
+[Dr. Michael Lu](https://www.massgeneral.org/doctors/19532/Michael-Lu), MD, MPH, Director of Research, Cardiovascular Imaging at Massachusetts General Hospital and Assistant Professor of Radiology at Harvard Medical School
 
 **Assisting with Sequential Clinical Decision Making Using Machine Learning**  
 *Mon 11/4, 1pm E25-401*   
-Dr. Joe Futoma, postdoctoral fellow with Dr. Finale Doshi-Velez at Harvard
+[Dr. Joe Futoma](https://jfutoma.github.io/), PhD, postdoctoral fellow with Dr. Finale Doshi-Velez at Harvard
 
 **Learning microbial dynamics for therapeutic applications: Scalable inference and robustness**  
 *Tue 11/19, 12:30pm  E25-101*  
-Dr. Travis Gibson, Brigham and Women's Hospital, Harvard Medical School
+[Dr. Travis Gibson](https://travisgibson.github.io/), PhD, Brigham and Women's Hospital, Harvard Medical School
 
 Mon 12/2, 1pm  
 Mon 12/16, 1pm  
