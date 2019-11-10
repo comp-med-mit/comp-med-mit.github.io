@@ -41,20 +41,20 @@ Mon 12/16, 1pm
 
 # Summer 2019 Schedule
 
-July 10  
-+ Learning about Breast Cancer from Images and Text  
-+ Adam Yala, PhD Student with Dr. Regina Barzilay  
+**Learning about Breast Cancer from Images and Text**  
+*July 10*   
+Adam Yala, PhD Student with Dr. Regina Barzilay   
 
-July 24
-+ Analysis of Chest X-Rays (with demos!)  
-+ Dr. Alistair Johnson, Postdoc with Dr. Roger Mark
+**Analysis of Chest X-Rays (with demos!)**  
+*July 24*  
+Dr. Alistair Johnson, Postdoc with Dr. Roger Mark
 
-August 7
-+ Deep Learning Tools for Genomic Prediction and Response Assessment in Glioma  
-+ Ken Chang, MD-PhD Candidate, Harvard-MIT Division of Health Sciences & Technology
+**Deep Learning Tools for Genomic Prediction and Response Assessment in Glioma**  
+*August 7*  
+Ken Chang, MD-PhD Candidate, Harvard-MIT Division of Health Sciences & Technology
 
-August 21  
-+ Arrhythmia Detection and Classification with Deep Learning  
-+ Journal Club of Hannun et al., Nature Medicine 2019 (DOI: 10.1038/s41591-018-0268-3)  
-+ Discussion led by Dr. Erik Reinertsen, Postdoc with Dr. Collin Stultz
+**Arrhythmia Detection and Classification with Deep Learing**  
+*August 21*  
+Journal Club of Hannun et al., Nature Medicine 2019 (DOI: 10.1038/s41591-018-0268-3)   
+Discussion led by Dr. Erik Reinertsen, Postdoc with Dr. Collin Stultz
 
