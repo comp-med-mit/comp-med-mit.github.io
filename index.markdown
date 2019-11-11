@@ -40,7 +40,7 @@ Mon 12/2, 1pm
 
 **Linking pre-operative risk to post-operative outcomes, using routine measurements**  
 *Mon 12/15, 1pm E24-401*  
-[Dr. Brody Foy](https://brodyfoy.com/), DPhil, postdoctoral fellow with Dr. John Higgins at the MGH Center for Systems Biology
+[Dr. Brody Foy](https://brodyfoy.com/), DPhil, postdoctoral fellow with Drs. Aaron Aguirre and John Higgins at the MGH Center for Systems Biology
 
 # Summer 2019 Schedule
 
