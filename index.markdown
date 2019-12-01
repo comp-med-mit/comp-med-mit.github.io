@@ -36,8 +36,6 @@ Discussion led by [Aniruddh Raghu](http://aniruddhraghu.com/), doctoral Student 
 *Tue 11/19, 12:30pm  E25-101*  
 [Dr. Travis Gibson](https://travisgibson.github.io/), PhD, Brigham and Women's Hospital, Harvard Medical School
 
-Mon 12/2, 1pm  
-
 **Linking pre-operative risk to post-operative outcomes, using routine measurements**  
 *Mon 12/16, 1pm E24-401*  
 [Dr. Brody Foy](https://brodyfoy.com/), DPhil, postdoctoral fellow with Drs. Aaron Aguirre and John Higgins at the MGH Center for Systems Biology
