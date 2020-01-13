@@ -18,6 +18,8 @@ Contact [kayoung AT mit DOT edu]() or fill out [this form](https://docs.google.c
 
 # Check back in February for our Spring 2020 Schedule!
 
+--
+
 # Fall 2019 Schedule
 
 
