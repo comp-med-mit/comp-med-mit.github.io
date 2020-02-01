@@ -22,9 +22,9 @@ title: Computational Medicine Seminar @ MIT
 email: kayoung@mit.edu
 description: Machine learning (and more) in medicine and healthcare
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mit-ccrg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://comp-med-mit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mit
-github_username:  mit-ccrg
+github_username:  comp-med-mit
 
 # Build settings
 theme: minima
