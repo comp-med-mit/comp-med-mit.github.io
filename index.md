@@ -18,8 +18,8 @@ Contact [kayoung AT mit DOT edu]() or fill out [this form](https://docs.google.c
 
 # Spring 2020 Schedule
 
-**Artificial Intelligence and the Life Sciences**
-*Wed 4/29, 12:30pm 36-462*
+**Artificial Intelligence and the Life Sciences**  
+*Wed 4/29, 12:30pm 36-462*  
 [Dr. Gopal Sarma](http://www.gopalsarma.com/), MD, PhD, scientific advisor at the Broad Institute
 
 --
