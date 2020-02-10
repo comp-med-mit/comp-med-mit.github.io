@@ -18,6 +18,10 @@ Contact [kayoung AT mit DOT edu]() or fill out [this form](https://docs.google.c
 
 # Spring 2020 Schedule
 
+**Title TBD**  
+*Wed 2/19, 1:30pm 36-428*  
+[Dr. Melanie Fernandez](melaniefp.github.io), PhD, postdoctoral fellow with Dr. Finale Doshi-Velez
+
 **Artificial Intelligence and the Life Sciences**  
 *Wed 4/29, 12:30pm 36-462*  
 [Dr. Gopal Sarma](http://www.gopalsarma.com/), MD, PhD, scientific advisor at the Broad Institute
