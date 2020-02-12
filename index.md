@@ -18,7 +18,7 @@ Contact [kayoung AT mit DOT edu]() or fill out [this form](https://docs.google.c
 
 # Spring 2020 Schedule
 
-**Title TBD**  
+**Are you exploiting your assumptions? Towards effective priors for biomarker discovery and functional predictions**  
 *Wed 2/19, 1:30pm 36-428*  
 [Dr. Melanie F. Pradier](http://melaniefp.github.io/), PhD, postdoctoral fellow with Dr. Finale Doshi-Velez
 
