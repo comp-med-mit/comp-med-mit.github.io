@@ -20,10 +20,14 @@ Contact [kayoung AT mit DOT edu]() or fill out [this form](https://docs.google.c
 
 **Are you exploiting your assumptions? Towards effective priors for biomarker discovery and functional predictions**  
 *Wed 2/19, 1:30pm 36-428*  
-[Dr. Melanie F. Pradier](http://melaniefp.github.io/), PhD, postdoctoral fellow with Dr. Finale Doshi-Velez
+[Dr. Melanie F. Pradier](http://melaniefp.github.io/), PhD, postdoctoral fellow with Dr. Finale Doshi-Velez   
+
+**Title TBD**  
+*Wed 4/29, 12:30pm 36-462*
+[Dr. Athanasios Tsanas](https://www.ed.ac.uk/profile/thanasis-tsanas), DPhil, assistant professor at the Usher Institute, Edinburgh Medical School
 
 **Artificial Intelligence and the Life Sciences**  
-*Wed 4/29, 12:30pm 36-462*  
+*Wed 5/13, 12:30pm 36-462*  
 [Dr. Gopal Sarma](http://www.gopalsarma.com/), MD, PhD, scientific advisor at the Broad Institute
 
 --
