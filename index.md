@@ -23,7 +23,7 @@ Contact [kayoung AT mit DOT edu]() or fill out [this form](https://docs.google.c
 [Dr. Melanie F. Pradier](http://melaniefp.github.io/), PhD, postdoctoral fellow with Dr. Finale Doshi-Velez   
 
 **Title TBD**  
-*Wed 4/29, 12:30pm 36-462*
+*Wed 4/29, 12:30pm 36-462*  
 [Dr. Athanasios Tsanas](https://www.ed.ac.uk/profile/thanasis-tsanas), DPhil, assistant professor at the Usher Institute, Edinburgh Medical School
 
 **Artificial Intelligence and the Life Sciences**  
