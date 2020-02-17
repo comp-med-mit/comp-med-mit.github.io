@@ -26,7 +26,7 @@ Contact [kayoung AT mit DOT edu]() or fill out [this form](https://docs.google.c
 *Wed 4/1, 12:30pm 36-462*  
 [Dr. Luis Ruben Soenksen](https://innovation.mit.edu/luis-soenksen-bio/), PhD, Venture Builder in Artificial Intelligence and Healthcare at the MIT Innovation Initiative
 
-**Title TBD**  
+**Capitalizing on wearable sensors and smartphones to robustly assess longitudinal symptom severity trajectories: application in mental disorders, post-traumatic stress disorder, and stroke**  
 *Wed 4/29, 12:30pm 36-462*  
 [Dr. Athanasios Tsanas](https://www.ed.ac.uk/profile/thanasis-tsanas), DPhil, assistant professor at the Usher Institute, Edinburgh Medical School
 
