@@ -22,13 +22,19 @@ Contact [kayoung AT mit DOT edu]() or fill out [this form](https://docs.google.c
 *Wed 2/19, 1:30pm 36-428*  
 [Dr. Melanie F. Pradier](http://melaniefp.github.io/), PhD, postdoctoral fellow with Dr. Finale Doshi-Velez   
 
+<<<<<<< HEAD
 --- SEMINARS LISTED BELOW ARE POSTPONED INDEFINITELY ---
 
 **Using Deep Learning for Dermatologist-Level Detection of Ugly-Duckling and Suspicious Pigmented Skin Lesions from Wide-Field Images / Deep Learning for RNA Synthetic Biology**   
+=======
+**1. Using deep learning for dermatologist-level detection of ugly duckling and suspicious pigmented skin lesions from wide-field images**
+<br>
+**2. Deep Learning for RNA Synthetic Biology**   
+>>>>>>> 80e7659ac0b4dfb6b00141cfc88f22c2271f9286
 *Wed 4/1, 12:30pm 36-462*  
 [Dr. Luis Ruben Soenksen](https://innovation.mit.edu/luis-soenksen-bio/), PhD, Venture Builder in Artificial Intelligence and Healthcare at the MIT Innovation Initiative
 
-**Title TBD**  
+**Capitalizing on wearable sensors and smartphones to robustly assess longitudinal symptom severity trajectories: application in mental disorders, post-traumatic stress disorder, and stroke**  
 *Wed 4/29, 12:30pm 36-462*  
 [Dr. Athanasios Tsanas](https://www.ed.ac.uk/profile/thanasis-tsanas), DPhil, assistant professor at the Usher Institute, Edinburgh Medical School
 
