@@ -22,8 +22,7 @@ Contact [kayoung AT mit DOT edu]() or fill out [this form](https://docs.google.c
 *Wed 2/19, 1:30pm 36-428*  
 [Dr. Melanie F. Pradier](http://melaniefp.github.io/), PhD, postdoctoral fellow with Dr. Finale Doshi-Velez   
 
-<<<<<<< HEAD
---- SEMINARS LISTED BELOW ARE POSTPONED INDEFINITELY ---
+*SEMINARS LISTED BELOW ARE POSTPONED UNTIL MIT IS BUSINESS AS USUAL*
 
 **Using Deep Learning for Dermatologist-Level Detection of Ugly-Duckling and Suspicious Pigmented Skin Lesions from Wide-Field Images / Deep Learning for RNA Synthetic Biology**   
 =======
