@@ -24,7 +24,6 @@ Contact [kayoung AT mit DOT edu]() or fill out [this form](https://docs.google.c
 
 *SEMINARS LISTED BELOW ARE POSTPONED UNTIL MIT IS BUSINESS AS USUAL*
 
-**Using Deep Learning for Dermatologist-Level Detection of Ugly-Duckling and Suspicious Pigmented Skin Lesions from Wide-Field Images / Deep Learning for RNA Synthetic Biology**   
 **1. Using deep learning for dermatologist-level detection of ugly duckling and suspicious pigmented skin lesions from wide-field images**
 <br>
 **2. Deep Learning for RNA Synthetic Biology**   
